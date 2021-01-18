@@ -22,7 +22,7 @@ export default class Header extends Component {
                 <h1 className="responsive-headline">{resumeData.name}</h1>
                 <h3 style={{color:'#fff', fontFamily:'sans-serif', fontSize: '20px'}}>Hi! I'm a {resumeData.role}.{resumeData.roleDescription}
                 </h3>
-                <h3 style={{color:'#fff', fontFamily:'sans-serif', fontSize: '20px'}}>Feel free to check out my <a className="smoothscroll" href="#portfolio">projects</a> below, contact me at <a href="mailto:ashleyye@berkeley.edu" target="_">ashleyye@berkeley.edu</a> or check out my <a href="assets/AshleyYe-Resume.pdf" target="_">resume</a>!</h3>
+                <h3 style={{color:'#fff', fontFamily:'sans-serif', fontSize: '20px'}}>Feel free to check out my <a className="smoothscroll" href="#portfolio">projects</a> below, contact me at <a href="mailto:ashleyye@berkeley.edu" target="_">ashleyye@berkeley.edu</a> or check out my <a href="assets/AshleyYeResume-Freshman.pdf" target="_">resume</a>!</h3>
                 <hr/>
                 <ul className="social">
                     {

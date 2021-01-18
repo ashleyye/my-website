@@ -23,7 +23,7 @@ let resumeData = {
           },
         {
             "name":"resume",
-            "url":"assets/AshleyYe-Resume",
+            "url":"assets/AshleyYeResume-Freshman.pdf",
             "className":"fa fa-paperclip"
           },
       ],
@@ -33,9 +33,9 @@ let resumeData = {
     "education":[
       {
         "UniversityName":"University of California, Berkeley",
-        "specialization":"Electrical Engineering and Computer Science",
-        "MonthOfPassing":"May",
-        "YearOfPassing":"2023",
+        "specialization":"B.S. Electrical Engineering and Computer Science",
+        "MonthOfPassing":"Aug",
+        "YearOfPassing":"2020",
         "Achievements":"Coursework: Data Structures, Discrete Mathematics and Probability Theory, Structure and Interpretation of Computer Programs, Designing Information Devices and Systems I, Multivariable Calculus"
       },
     ],
@@ -98,7 +98,7 @@ let resumeData = {
         "name":"Autonomous Driving via Accident Analytics",
         "description":"Virtual Self-Driving Car",
         "imgurl":"images/portfolio/autonomousdriving.jpg",
-        "projurl":"https://devpost.com/software/equiscan"
+        "projurl":"https://devpost.com/software/autonomous-driving-b4sj1l"
       },
       {
         "name":"Proapptive",
